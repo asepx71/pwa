@@ -1,6 +1,12 @@
 {
- "name": "App",
- "icons": [
+ "name": "Wendy Code",
+  "short_name": "Wendy Code",
+  "start_url": "https://blog-aseprohimatea.workers.dev/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#f890000",
+  "description": "Asep Media Blogger Mengulas Berbagai Informasi Seputar Teknologi, Internet Gratis, Tips Dan Tricks Blogger, Tutorial Blogger Pemula, Jasa Optimasi Blog.",
+  "icons": [
   {
    "src": "\/android-icon-36x36.png",
    "sizes": "36x36",
